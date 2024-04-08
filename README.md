@@ -1,4 +1,5 @@
 # I like puters
+`print(Hello World!)`
 
 <!---
 nordlender/nordlender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
